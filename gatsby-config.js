@@ -8,13 +8,13 @@ module.exports = {
     // You can also add new values here to query them like usual
     // See all options: https://github.com/LekoArts/gatsby-themes/blob/main/themes/gatsby-theme-minimal-blog/gatsby-config.js
     siteTitle: `coder.in.th`,
-    siteTitleAlt: `Minimal Blog - Gatsby Theme`,
-    siteHeadline: `Minimal Blog - Gatsby Theme from @lekoarts`,
-    siteUrl: `https://minimal-blog.lekoarts.de`,
-    siteDescription: `Typography driven, feature-rich blogging theme with minimal aesthetics. Includes tags/categories support and extensive features for code blocks such as live preview, line numbers, and line highlighting.`,
-    siteLanguage: `en`,
+    siteTitleAlt: `coder.in.th`,
+    siteHeadline: `coer.in.th`,
+    siteUrl: `https://coder.in.th`,
+    siteDescription: `life run cde`,
+    siteLanguage: `en,th`,
     siteImage: `/banner.jpg`,
-    author: `@lekoarts_de`,
+    author: `@ppongsakorn`,
   },
   plugins: [
     {
@@ -29,16 +29,12 @@ module.exports = {
           {
             title: `About`,
             slug: `/about`,
-          },
+          }
         ],
         externalLinks: [
           {
-            name: `Twitter`,
-            url: `https://twitter.com/lekoarts_de`,
-          },
-          {
-            name: `Homepage`,
-            url: `https://www.lekoarts.de?utm_source=minimal-blog&utm_medium=Starter`,
+            name: `Linekdin`,
+            url: `https://www.linkedin.com/in/pongsakorn-p-6241b521/`,
           },
         ],
       },
